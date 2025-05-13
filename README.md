@@ -4,7 +4,7 @@
 
 A secure torrent client running in Google Colab that downloads files directly to your Google Drive via magnet links, with selective file downloading and real-time progress monitoring.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h9uWkkZPaEuyczgYW-uagF5JjaP4F8Yk)
+[![Open in Colab](https://colab.research.google.com/drive/17zZ3WLDg8EJPLNF6aUAPnCS3PYKddq1r)
 
 ## Features ✨
 
